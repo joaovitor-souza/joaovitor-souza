@@ -1,8 +1,8 @@
 ## Olá! Seja bem vindo ao perfil do João Vitor 😁
  <div>
    <a href="https://github.com/joaovitor-souza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats-two-lime.vercel.app/)"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-souza&layout=compact&langs_count=6&theme=tokyonight](https://github-readme-stats-two-lime.vercel.app/)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor-souza&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
